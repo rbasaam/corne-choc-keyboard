@@ -1,0 +1,4 @@
+Corne (crkbd) Slim Case by squidrick on Thingiverse: https://www.thingiverse.com/thing:5710718
+
+Summary:
+Corne slim case.STL files are provided with different tolerance (spacing between pcb and case walls).For me it works the best with 0.4mm, especially after I apply finish it makes no wobble.I recommend to print it with 0.6mm first and then make some corrections. With 0.2mm it's almost impossible to fit in.I print this with 0.1mm layer height. It's slow but require less post processing.After this I slightly scratch the case with P240 sandpaper, apply primer, then apply structural paint.With 0.2-0.3mm layer height it works well too, but layers are visible, so you need to post process it more.Source file are provided. Made in KOMPAS-3D v20
