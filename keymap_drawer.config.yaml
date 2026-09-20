@@ -1,0 +1,5 @@
+draw_config:
+  # emit a theme-aware SVG so the diagram stays readable in GitHub dark mode
+  dark_mode: auto
+  # lay the four layers out 2x2 instead of one tall column
+  n_columns: 2

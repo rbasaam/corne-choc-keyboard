@@ -5,7 +5,8 @@ on:
   push:
     paths:
       - "config/*.keymap"
-      - "keymap_drawer.config.yml"
+      - "keymap_drawer.config.yaml"
+      - ".github/workflows/draw.yml"
 
 jobs:
   render:
@@ -14,6 +15,6 @@ jobs:
       contents: write
     with:
       keymap_patterns: "config/*.keymap"
-      west_config_path: ""
+      west_config_path: config
       parse_args: "corne:'--layer-names Base Lower Raise Adjust'"
       draw_args: "corne:'-k crkbd/rev1 -l LAYOUT_split_3x6_3'"
