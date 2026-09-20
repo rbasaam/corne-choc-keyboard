@@ -17,3 +17,4 @@ jobs:
       west_config_path: ""
       parse_args: "corne:'--layer-names Base Lower Raise Adjust'"
       draw_args: "corne:'-k crkbd/rev1 -l LAYOUT_split_3x6_3'"
+      destination: artifact
